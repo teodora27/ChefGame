@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad61e879bd1cb084b9cd2bc115b52288, type: 3}
+  m_Name: _ListaReteteSO
+  m_EditorClassIdentifier: 
+  reteteSO_lista:
+  - {fileID: 11400000, guid: ddde71717fef83a449720ff4bb2144de, type: 2}
+  - {fileID: 11400000, guid: aeab1131063b40d43bd99b8f3d236737, type: 2}
+  - {fileID: 11400000, guid: 1c183e5e5b5c35f4dad17fac8c021b0a, type: 2}
+  - {fileID: 11400000, guid: 90cc95fea000076428af194bc8c38edd, type: 2}

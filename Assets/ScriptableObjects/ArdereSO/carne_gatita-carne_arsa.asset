@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34ac5b6c65c154a42a220dbcc90e679b, type: 3}
+  m_Name: carne_gatita-carne_arsa
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: 36f8ccab209e32843ad356e576f36555, type: 2}
+  output: {fileID: 11400000, guid: e3fd83ec44fe6e347a98f3034455cb1b, type: 2}
+  gatire_timp_maxim: 5

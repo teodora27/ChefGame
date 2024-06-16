@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5acd5ea318640494ba3507491e3246cc, type: 3}
+  m_Name: rosie-rosie_felii
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: f164b7965006c384dbd56355a6355b11, type: 2}
+  output: {fileID: 11400000, guid: 2df1bd9010f639f46ae217f0143bb274, type: 2}
+  taiere_max: 3
